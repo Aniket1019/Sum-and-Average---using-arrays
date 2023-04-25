@@ -1,5 +1,3 @@
-//Write a program to accept input from user in an array and display the sum and average
-
 #include<stdio.h>
 int main()
 {
