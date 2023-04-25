@@ -1,1 +1,1 @@
-# Sum-and-Average---using-arrays
+# Sum-and-Average-using-arrays
